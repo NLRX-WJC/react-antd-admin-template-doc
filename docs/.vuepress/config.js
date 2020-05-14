@@ -2,10 +2,7 @@ const path = require("path");
 module.exports = {
   base: "/react-antd-admin-template-doc/",
   dest: "dist",
-  title: "react-antd-admin-template-doc",
-  markdown: {
-    lineNumbers: true
-  },
+  title: "react-antd-admin-template",
   configureWebpack: {
     resolve: {
       alias: {
