@@ -2,11 +2,13 @@
 title: 介绍
 ---
 
+## 1. 简介
+
 [react-antd-admin-template](https://nlrx-wjc.github.io/react-antd-admin-template/) 是一个基于 `React` 和 `Ant Design` 的后台管理系统模板。它内置了用户登录/登出，动态路由，权限校验，用户管理等典型的业务模型，可以帮助你快速搭建企业级中后台产品原型，是你接私活的不二之选。
 
 本系统的开发灵感来自 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/) ，这是一个基于 `Vue` 和 `ElementUI` 的优秀的后台管理系统模板，在这里向大佬致敬！
 
-## 1. 功能
+## 2. 功能
 
 ```bash
 - 登录 / 注销
@@ -47,7 +49,7 @@ title: 介绍
 - 剪贴板
 ```
 
-## 2. 目录结构
+## 3. 目录结构
 
 ```bash
 ├─ public                     # 静态资源
@@ -77,7 +79,7 @@ title: 介绍
 └── package.json              # package.json
 ```
 
-## 3. 安装
+## 4. 安装
 
 ```shell
 # 克隆项目
@@ -102,7 +104,7 @@ npm start
 
 接下来你可以修改代码进行业务开发了。
 
-## 4. 关于作者
+## 5. 关于作者
 
 大家好，我是难凉热血。
 
@@ -122,7 +124,7 @@ npm start
 
 ![](~@/introduce/2.jpg)
 
-## 5. 鼓励作者
+## 6. 鼓励作者
 
 作为个人开发者，维护开源实属不易。如果您觉得本项目对你有些许帮助的话，还请帮忙点个 star 哈~~
 如果您有余力的话也非常感谢您对我的赞赏，您的赞赏，是对我创作最大的认可和鼓励。

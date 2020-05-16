@@ -56,6 +56,8 @@ module.exports = {
     sidebarDepth: 1,
     sidebar: [
       ['introduce/', '介绍'],
+      ['layout/', '基础布局'],
+      ['router/', '路由配置'],
       // {
       //   title: "介绍",
       //   collapsable: false,
